@@ -39,3 +39,5 @@ I plan to add category filters (like Technology, Sports, Entertainment), a searc
 
 Conclusion
 This project was a great learning experience in combining front-end development with API integration. It shows how a simple stack of HTML, CSS, and JavaScript can be used to build something practical and engaging. I’ll continue improving it, but even in its current form, it’s a solid example of how to bring real-time data into a web app.
+
+OUTPUT--<!-- Uploading "Screenshot 2026-03-27 035252.png"... -->
