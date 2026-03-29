@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Latest News</h1>
+      <button onclick="getNews()">Fetch News</button>
+
+      <!-- Banner Carousel -->
+      <div id="banner" class="banner">
+        <img id="banner-img" src="" alt="Banner Image" />
+        <div class="banner-overlay">
+          <h2 id="banner-title">Headline</h2>
+          <p id="banner-desc">Description</p>
+          <a id="banner-link" href="#" target="_blank">Read more</a>
+        </div>
+      </div>
+
+      <!-- News Cards -->
+      <div id="news-container"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
